@@ -1,4 +1,5 @@
-#Getting Started
+# Getting Started
+
 Add your token in firebaseConf.js
 
 In firestore add the rule
@@ -14,6 +15,7 @@ service cloud.firestore {
 }
 ```
 
-##Captures
-![](images/imgLogin.png)
+## Captures
+
+![](images/imglogin.png)
 ![](images/imgMain.png)
